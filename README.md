@@ -15,5 +15,5 @@ This program is built by Maven.
   
 4.create table in explore
 
-5.when you want to add entity, add <class>pack.classname<class> in persistence.xml
+5.when you want to add entity, add <class> pack.classname <class> in persistence.xml
 
